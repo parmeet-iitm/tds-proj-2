@@ -1,0 +1,17 @@
+# Core dependencies
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+aiofiles
+httpx
+requests
+
+# Date handling
+python-dateutil
+
+# File processing
+PyYAML
+
+python-dotenv
